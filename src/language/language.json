@@ -1,0 +1,56 @@
+{
+  "en": {
+    "translation": {
+      "YOUR LOGO": "YOUR LOGO",
+      "A SECURITY SOLUTION": "A SECURITY SOLUTION",
+      "Keep track of your loved ones in real time!": "Keep track of your loved ones in real time!",
+      "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+      "Join Our Waitlist!": "Join Our Waitlist!",
+      "Be the first to get notified when the product is ready!": "Be the first to get notified when the product is ready!",
+      "Your email address": "Your email address",
+      "JOIN LIST!": "JOIN LIST!",
+      "Assets": "Assets",
+      "Creators": "Creators",
+      "Careers": "Careers",
+      "Go Pro": "Go Pro",
+      "Mode":"Mode",
+      "Theme changed":"Theme changed"
+    }
+  },
+  "ru": {
+    "translation": {
+      "YOUR LOGO": "ВАШ ЛОГОТИП",
+      "A SECURITY SOLUTION": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+      "Keep track of your loved ones in real time!": "Следите за своими близкими в реальном времени!",
+      "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "Мы заметили высокий уровень небезопасности в мире и подумали, как технологии могут помочь справиться с этими угрозами.",
+      "Join Our Waitlist!": "Присоединяйтесь к нашему списку ожидания!",
+      "Be the first to get notified when the product is ready!": "Будьте первыми, кто узнает, когда продукт будет готов!",
+      "Your email address": "Ваш адрес электронной почты",
+      "JOIN LIST!": "ПРИСОЕДИНИТЬСЯ!",
+      "Assets": "Активы",
+      "Creators": "Создатели",
+      "Careers": "Карьера",
+      "Go Pro": "Профессиональная версия",
+      "Mode":"Мод",
+      "Theme changed":"Тема изменена"
+    }
+  },
+  "uz": {
+    "translation": {
+      "YOUR LOGO": "SIZNING LOGO",
+      "A SECURITY SOLUTION": "XAVFSIZLIK YECHIMI",
+      "Keep track of your loved ones in real time!": "Yaqinlaringizni real vaqtda kuzatib boring!",
+      "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.": "Dunyoda xavfsizlik muammolari yuqori ekanligini sezib, bu muammolarni bartaraf etish uchun texnologiyalardan qanday foydalanish mumkinligini o'yladik.",
+      "Join Our Waitlist!": "Bizning Kutish Ro'yxatimizga Qo'shiling!",
+      "Be the first to get notified when the product is ready!": "Mahsulot tayyor bo'lganda birinchi bo'lib xabardor bo'ling!",
+      "Your email address": "Sizning elektron pochta manzilingiz",
+      "JOIN LIST!": "RO'YXATGA QO'SHILING!",
+      "Assets": "Aktivlar",
+      "Creators": "Yaratuvchilar",
+      "Careers": "Karyera",
+      "Go Pro": "Pro versiya",
+      "Mode":"Mod",
+      "Theme changed":"Mavzu o'zgardi"
+    }
+  }
+}
