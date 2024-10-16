@@ -22,7 +22,7 @@ function App() {
               {t("Keep track of your loved ones in real time!")}
             </h1>
             <div className=" border-t-2 border-[#D6D6D6] pt-4 flex gap-7 mb-16">
-              <img src="../public/assets/pin.svg" alt="pin" />
+              <img src="./assets/pin.svg" alt="pin" />
               <p className={`font-medium text-xl leading-7 ${user.theme == 'light' ? "text-[#00085E]":"text-[#878787]"}`}>
                 {t(
                   "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities."
@@ -47,9 +47,9 @@ function App() {
             </div>
           </div>
           <div className="right relative">
-            <img className=" ml-96" src="../public/assets/Path.svg" alt="path" />
-            <img src="../public/assets/phone.png" alt="phones" />
-            <img src="../public/assets/Path.svg" alt="path" />
+            <img className=" ml-96" src="./assets/Path.svg" alt="path" />
+            <img src="./assets/phone.png" alt="phones" />
+            <img src="./assets/Path.svg" alt="path" />
           </div>
         </div>
       </UserContext.Provider>
